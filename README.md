@@ -10,12 +10,21 @@
 
   Download the dataset introduced in [1] and put it into "data" folder.
 
-* Train the model:
-  ```python classification.py```
+* hyper-parameter tuning:
 
+  Use the training subset and validation subset to finish the hyper-parameter tuning. All the hyper-parameters are decided in this process. Run the code:
+
+  ```python parameter_tuning.py```
+
+* Train the model:
+  
+Train the model with the hyper-parameters tuned. Run the code:
+  
+  ```python classification.py```
+  
 * Test the model:
 Rename the trained model as "model_best.pth" and put it into the "\attention\models_saved" folder. Then run the code:
-```python test.py```
+```python testing.py```
 
 # Reference:
 
