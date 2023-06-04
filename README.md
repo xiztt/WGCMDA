@@ -21,9 +21,11 @@
   Train the model with the hyper-parameters tuned. Run the code:
   
   ```python classification.py```
+  
 * Test the model:
-Rename the trained model as "model_best.pth" and put it into the "\attention\models_saved" folder. Then run the code:
-```python testing.py```
+  Rename the trained model as "model_best.pth" and put it into the "\attention\models_saved" folder. Then run the code:
+
+  ```python testing.py```
 
 # Reference:
 
