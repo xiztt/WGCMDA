@@ -1,6 +1,6 @@
 # Project Introduction:
 This is the source code for our paper "When Graph Convolution Meets Double Attention: Online Privacy Disclosure Detection with Multi-Label Text Classification", accepted to Data Mining and Knowledge Discovery. In this project, we propose a new privacy disclosure detection model with multi-label text classification, which considers three different sources of relevant information: the input text itself, the label-to-text correlation, and the label-to-label correlation. The architecture of the proposed model is as follows:
-![image](https://github.com/xiztt/WGCMDA/assets/128767154/2af5b951-7dce-46c1-b310-e5c93118a739)
+![image](https://github.com/xiztt/WGCMDA/assets/128767154/2af5b951-7dce-46c1-b310-e5c93118a739 width="210px")
 # Requirements:
 * Python 3.7.10
 * Pytorch 1.7.1
