@@ -1,3 +1,4 @@
+This is the source code for our paper "When Graph Convolution Meets Double Attention: Online Privacy Disclosure Detection with Multi-Label Text Classification", accepted to Data Mining and Knowledge Discovery.
 # Requirements:
 * Python 3.7.10
 * Pytorch 1.7.1
